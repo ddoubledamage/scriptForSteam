@@ -10,4 +10,4 @@ tdElements.forEach(td => {
     }
 });
 
-console.log(`Общая сумма: ${totalSum} руб.`);
+console.log(totalSum);
